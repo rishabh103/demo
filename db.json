@@ -1,4 +1,5 @@
 [
+ "values":[
   {
     "time": "2022-08-24 08:00:00",
     "forward_flow": 1023910,
@@ -469,4 +470,5 @@
     "forward_flow": 883000,
     "serial_number": "fm930"
   }
+]
 ]
